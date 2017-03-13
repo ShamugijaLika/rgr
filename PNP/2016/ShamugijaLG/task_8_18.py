@@ -45,3 +45,4 @@ else :
  print("На самом деле это было слово - ", correct)
  print("Спасибо за игру. Вы заработали ", point, " баллов")
 input("Press Enter for Exit.")
+
